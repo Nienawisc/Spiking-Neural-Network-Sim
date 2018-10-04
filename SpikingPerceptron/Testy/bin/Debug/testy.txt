@@ -1,0 +1,3 @@
+Liczba zer: 5069. Liczba jedynek: 5116
+Test zdany. Długość serii krótsza niż 26
+test

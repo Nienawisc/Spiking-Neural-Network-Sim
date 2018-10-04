@@ -1,0 +1,50 @@
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\bin\Debug\Testy.exe.config
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\bin\Debug\Testy.exe
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\bin\Debug\Testy.pdb
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\obj\Debug\Testy.Form1.resources
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\obj\Debug\Testy.Properties.Resources.resources
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\obj\Debug\Testy.csproj.GenerateResource.Cache
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\obj\Debug\Testy.exe
+c:\users\g\documents\visual studio 2015\Projects\Testy\Testy\obj\Debug\Testy.pdb
+C:\Users\G\Documents\Visual Studio 2015\Projects\Testy\Testy\obj\Debug\Testy.csprojAssemblyReference.cache
+C:\Users\G\Documents\Visual Studio 2015\Projects\Testy\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+F:\SI\Testy\Testy\bin\Debug\Testy.exe.config
+F:\SI\Testy\Testy\bin\Debug\Testy.exe
+F:\SI\Testy\Testy\bin\Debug\Testy.pdb
+F:\SI\Testy\Testy\obj\Debug\Testy.csprojAssemblyReference.cache
+F:\SI\Testy\Testy\obj\Debug\Testy.Form1.resources
+F:\SI\Testy\Testy\obj\Debug\Testy.Properties.Resources.resources
+F:\SI\Testy\Testy\obj\Debug\Testy.csproj.GenerateResource.cache
+F:\SI\Testy\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+F:\SI\Testy\Testy\obj\Debug\Testy.exe
+F:\SI\Testy\Testy\obj\Debug\Testy.pdb
+D:\SI\Testy\Testy\bin\Debug\Testy.exe.config
+D:\SI\Testy\Testy\obj\Debug\Testy.exe
+D:\SI\Testy\Testy\obj\Debug\Testy.pdb
+D:\SI\Testy\Testy\obj\Debug\Testy.Form1.resources
+D:\SI\Testy\Testy\obj\Debug\Testy.Properties.Resources.resources
+D:\SI\Testy\Testy\obj\Debug\Testy.csproj.GenerateResource.Cache
+D:\SI\Testy\Testy\bin\Debug\Testy.exe
+D:\SI\Testy\Testy\bin\Debug\Testy.pdb
+D:\SI\Testy\Testy\obj\Debug\Testy.csprojAssemblyReference.cache
+D:\SI\Testy\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+E:\SI\Testy\Testy\bin\Debug\Testy.exe.config
+E:\SI\Testy\Testy\bin\Debug\Testy.exe
+E:\SI\Testy\Testy\bin\Debug\Testy.pdb
+E:\SI\Testy\Testy\obj\Debug\Testy.csprojResolveAssemblyReference.cache
+E:\SI\Testy\Testy\obj\Debug\Testy.Form1.resources
+E:\SI\Testy\Testy\obj\Debug\Testy.Properties.Resources.resources
+E:\SI\Testy\Testy\obj\Debug\Testy.csproj.GenerateResource.Cache
+E:\SI\Testy\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+E:\SI\Testy\Testy\obj\Debug\Testy.exe
+E:\SI\Testy\Testy\obj\Debug\Testy.pdb
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Debug\Testy.exe.config
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Debug\Testy.exe
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Debug\Testy.pdb
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.csprojAssemblyReference.cache
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.Form1.resources
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.Properties.Resources.resources
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.csproj.GenerateResource.cache
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.exe
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Debug\Testy.pdb

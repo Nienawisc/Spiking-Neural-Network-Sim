@@ -1,0 +1,10 @@
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Release\Testy.exe.config
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Release\Testy.exe
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\bin\Release\Testy.pdb
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.Form1.resources
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.Properties.Resources.resources
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.csproj.GenerateResource.cache
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.csproj.CoreCompileInputs.cache
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.exe
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.pdb
+C:\Users\umlau\Desktop\SiL-TI1-Z3-180626\SpikingPerceptron\Testy\obj\Release\Testy.csprojAssemblyReference.cache
